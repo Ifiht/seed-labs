@@ -1,0 +1,1 @@
+cmd_/home/ghengis/seed-labs/category-network/Firewall/src/fw.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/ghengis/seed-labs/category-network/Firewall/src/fw.ko /home/ghengis/seed-labs/category-network/Firewall/src/fw.o /home/ghengis/seed-labs/category-network/Firewall/src/fw.mod.o
